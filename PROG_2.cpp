@@ -1,6 +1,7 @@
 /* Autor: Oscar Vivaldi Partido Ramirez, realizado: 03/02/2022
 
 programa que pide los datos de un triangulo y calcule su area
+
 */
 
 #include <stdio.h>
